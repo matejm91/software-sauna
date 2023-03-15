@@ -1,3 +1,29 @@
+# Note to reviewer
+Install dependencies by running `npm install`
+
+I was running the tests by running `npm t`
+
+If you wish to edit the code to run it in a way you like, feel free to do so, but keep in mind that I copied all of the maps from README and used them in test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # [Software Sauna](https://www.softwaresauna.com/) Code Challenge
 
 Follow a path of characters & collect letters:
